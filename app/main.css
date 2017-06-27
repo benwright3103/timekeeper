@@ -1,0 +1,91 @@
+*{
+	margin: 0px;
+	padding: 0px ;
+	font-family: 'Neuton', serif;
+}
+
+
+#header{
+	background: #1b1619;
+}
+#logo{
+	color: #af9b73;
+	font-size: 3em;
+}
+
+#main-header{
+	font-size: 7em;
+	text-align: center;
+	padding-top: -10px;
+	padding-bottom: -50px;
+}
+
+#main-timer{
+	color: #af9b73;
+	font-size: 10em;
+	/*padding-bottom: -50px;*/
+	padding-bottom: 50px;
+	margin-top: -40px;
+	display: block;
+
+}
+
+#col1{
+	background: #1b1619;
+	/*height: 30vh;*/
+	color: #ffffff;
+}
+
+#col2{
+	background: #3e3e3d;
+	height: 30vh;
+	color: #ffffff;
+}
+
+#col3{
+	background: #1b1619;
+	height: 30vh;
+	color: #ffffff;
+}
+
+.stripe{
+	background-color: #af9b73;
+}
+
+hr{
+	background: #af9b73;
+}
+
+#pausebtn{
+	width: 3em; 
+	height: auto;
+	display: block;
+	padding-bottom: .5em;
+	 margin-left:auto;
+   margin-right:auto;
+}
+
+.buttons{
+		background: #af9b73;
+		border: none;
+		padding: .75em 3em;
+		 margin-left:auto;
+	   margin-right:auto;
+	   display:block;
+	   font-family: 'Neuton', serif;
+	   font-size: 1em;
+}
+
+#completedTaskHeader{
+	text-align: center;
+
+}
+
+.sectionHeader{
+	padding-top: .5em;
+}
+
+.timer{
+	font-family: 'Neuton', serif;
+	font-size: 5em;
+}
